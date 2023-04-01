@@ -1,0 +1,16 @@
+{
+  "name": "automate-bet-staking",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/boybenson/automate-bet-staking.git",
+  "author": "boybenson <ybenson96@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "puppeteer": "^19.8.2"
+  }
+}
